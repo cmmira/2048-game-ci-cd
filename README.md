@@ -76,7 +76,7 @@ docker push (ECR_URI):latest
                - AWSCodeBuildDeveloperAccess
                - AmazonS3FullAccess
                - Attach Inline Policy for ECS
-               - ```
+                 ```
                  {
                    "Version": "2012-10-17",
                    "Statement": [
